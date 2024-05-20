@@ -29,5 +29,3 @@ This task analyzes a company's stock performance and prepares a report of variou
 ### Contributing
 Contributions are welcome! 
 
-### License
-This project is licensed under the MIT License.
