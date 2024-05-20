@@ -1,0 +1,14 @@
+research_company_task:
+  description: >
+    Use the search tool to look up this company's stock information: {company_name}.
+    The goal is to prepare enough information to make a an informed analysis of the company's stock performance.
+  expected_output: >
+    The search tool should return the company's stock price, market cap, and other relevant information.
+
+analyze_company_task:
+  description: >
+    Analyze {company_name} company's stock performance and prepare a report of probability metrics,
+    liquidity metrics, efficiency metrics,solvency metrics, market value metrics, cash flow metrics, 
+    growth metrics and risk and return metrics.
+  expected_output: >
+    A nicely formatted report that includes all the metrics mentioned above.
